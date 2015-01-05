@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:000543_0000_0FA6B6376CDBC7A8"/>
-            <pb facs="tcp:000543_0001_0FA6B639885D0590" rendition="simple:additions"/>
+            <pb facs="unknown:000543_0000_0FA6B6376CDBC7A8"/>
+            <pb facs="unknown:000543_0001_0FA6B639885D0590"
+                rendition="simple:additions"/>
             <head>AN ADDRESS Presented to the <hi>KING,</hi>
                <date>
                   <hi>August</hi> 7<hi>th.</hi> 1689.</date>
